@@ -1,12 +1,22 @@
-# Hey there👋, Welcome to my Github Profile
+# Hey I'am Sudeera👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+I+am+Sudeera;Full+stack+developer...;Data+Science+Enthusiast...;Flutter+Developer...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+developer...;Data+Science+Enthusiast...;Flutter+Developer...;Active+Open+Source+Contributor..."/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeeradilshan&label=Profile%20views&color=0e75b6&style=flat" alt="sudeeradilshan" /> </p>
 
 <p>- <i> An undergraduate student at the University of Moratuwa, currently pursuing a BSc Hons in Artificial Intelligence. I'm passionate about solving complex problems and continuously exploring innovative solutions through code. I'm always eager to update my knowledge and stay ahead in the ever-evolving tech landscape</i></p>
 
-- 📫 How to reach me **new1818155@gmail.com**
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="35%" align="right" />
+
+## ⚡🙋‍♂️ About Me
+</br>
+
+- 🔧 I’m currently working on Ecommerce application with MERN stack
+- 💡 I’m curious about Datascience and Machine Learning.
+- 📖 I’m currently learning Langchain.
+- ❄️ I’m looking to collaborate on Open Source Projects.
+- 📫 How to reach me **new1818155@gmail.com**.
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
