@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sudeera Dilshan</h1>
-<h3 align="center">Fullstack Developer || Flutter Developer || AI Enthusiast</h3>
+# Hey there👋, Welcome to my Github Profile
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+I+am+Sudeera;Full+stack+developer...;Data+Science+Enthusiast...;Flutter+Developer...;Active+Open+Source+Contributor..."/>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeeradilshan&label=Profile%20views&color=0e75b6&style=flat" alt="sudeeradilshan" /> </p>
+
+<p>- <i> An undergraduate student at the University of Moratuwa, currently pursuing a BSc Hons in Artificial Intelligence. I'm passionate about solving complex problems and continuously exploring innovative solutions through code. I'm always eager to update my knowledge and stay ahead in the ever-evolving tech landscape</i></p>
 
 - 📫 How to reach me **new1818155@gmail.com**
 
