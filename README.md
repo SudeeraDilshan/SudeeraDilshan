@@ -1,6 +1,6 @@
 # Hey I'am Sudeera👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+developer...;Data+Science+Enthusiast...;Flutter+Developer...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+developer...;Data+Science+Enthusiast...;Flutter+Developer..."/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeeradilshan&label=Profile%20views&color=0e75b6&style=flat" alt="sudeeradilshan" /> </p>
 
