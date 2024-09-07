@@ -15,7 +15,7 @@
 - 💡 I’m curious about Datascience and Machine Learning.
 - 📖 I’m currently learning Langchain.
 - ❄️ I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me **new1818155@gmail.com**.
+- 📫 How to reach me **dilshanrgs31@gmail.com**.
 <hr>
 
 
