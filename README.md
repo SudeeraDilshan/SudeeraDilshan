@@ -1,6 +1,6 @@
 # Hey I'am Sudeera👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=AI+and+Data+Science+Enthusiast...;Data+Science+Enthusiast...;Flutter+Developer..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=AI+and+Data+Science+Enthusiast...;"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeeradilshan&label=Profile%20views&color=0e75b6&style=flat" alt="sudeeradilshan" /> </p>
 
@@ -11,9 +11,9 @@
 ## ⚡🙋‍♂️ About Me
 </br>
 
-- 🔧 I’m currently working on Ecommerce application with MERN stack
+- 🔧 I’m currently working on AI Agent based project.
 - 💡 I’m curious about Datascience and Machine Learning.
-- 📖 I’m currently learning Langchain.
+- 📖 I’m currently learning AI technologies
 - ❄️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me **dilshanrgs31@gmail.com**.
 <hr>
